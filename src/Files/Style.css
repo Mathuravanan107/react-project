@@ -1,0 +1,13 @@
+.inputs{
+    width: 40%;
+    position: absolute;
+    display: flex;
+    top:250px;
+    left:380px;
+}
+.banner{
+    position: relative;
+}
+.btn2{
+    width: 40%;
+}
